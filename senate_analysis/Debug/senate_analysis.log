@@ -1,0 +1,6 @@
+﻿  senate_analysis.cpp
+C:\Users\Marcos home office\source\repos\senate_analysis\senate_analysis\senate_analysis.cpp(488,44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marcos home office\source\repos\senate_analysis\senate_analysis\senate_analysis.cpp(489,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marcos home office\source\repos\senate_analysis\senate_analysis\senate_analysis.cpp(490,46): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Marcos home office\source\repos\senate_analysis\senate_analysis\senate_analysis.cpp(527,9): warning C4101: 'selection': unreferenced local variable
+  senate_analysis.vcxproj -> C:\Users\Marcos home office\source\repos\senate_analysis\Debug\senate_analysis.exe

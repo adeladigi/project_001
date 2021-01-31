@@ -1,0 +1,16 @@
+Coding notes
+
+
+1# std::setw();
+
+2# std::setfill('0');
+
+3# bool num = 5.00f; //how to show full number
+
+4# .empty(); //you can use this to check if variables are empty with if statements
+
+5# each character... meaning "letter" has a value in order B is great then A, C is greater then B.
+
+6# .find();
+
+7# .end();
